@@ -1,15 +1,6 @@
-# comfly-node
-comfly
-你的ComfyUI根目录/
-├── models/
-├── main.py
-├── custom_nodes/
-│   └── ComfyUI-RandomPromptMixer/         <-- 你的插件主文件夹
-│       ├── __init__.py                    <-- 文件 1：注册节点与加载前端
-│       ├── nodes.py                       <-- 文件 2：后端核心逻辑（拼接提示词）
-│       └── web/                           <-- 必须存在的前端目录
-│           └── js/
-│               └── random_mixer.js        <-- 文件 3：核心 UI 与【词库存放地】
+<img width="597" height="253" alt="image" src="https://github.com/user-attachments/assets/480ff328-e3ed-4a96-b592-14449787809c" />
+
+
 
 🎲 ComfyUI Random Prompt Mixer 使用说明书
 一、 界面功能速览
